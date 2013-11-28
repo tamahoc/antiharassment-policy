@@ -1,6 +1,8 @@
 CodeOfConduct4Lib
 =================
 
+This file is now totally mine! I have edited it!! -th
+
 [![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 
 Code4Lib seeks to provide a welcoming, fun, and safe community and
